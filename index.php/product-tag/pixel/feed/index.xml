@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>pixel &#8211; ecommerce</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Choose your best one!</description>
+	<lastBuildDate>Sat, 05 Sep 2020 14:12:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2020/09/d1768169-32bc-4bb1-92f8-509962202b8f_200x200-150x150.png</url>
+	<title>pixel &#8211; ecommerce</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Google Pixel 4 &#8211; Just Black &#8211; 64GB &#8211; Unlocked</title>
+		<link>./../../../product/google-pixel-4-just-black-64gb-unlocked/index.html</link>
+					<comments>./../../../product/google-pixel-4-just-black-64gb-unlocked/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2020 14:02:42 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=258</guid>
+
+					<description><![CDATA[Point and shoot for the perfect photo. Capture brilliant color and control the exposure balance of different parts of your photos.
+Get the shot without the flash. Night Sight is now faster and easier to use it can even take photos of the Milky Way.]]></description>
+										<content:encoded><![CDATA[<p>Point and shoot for the perfect photo. Capture brilliant color and control the exposure balance of different parts of your photos.<br />
+Get the shot without the flash. Night Sight is now faster and easier to use it can even take photos of the Milky Way.<br />
+Get more done with your voice. The new Google Assistant is the easiest way to send texts, share photos, and more. [1]<br />
+A new way to control your phone. Quick Gestures let you skip songs and silence calls – just by waving your hand above the screen. [2]<br />
+End the robocalls. With Call Screen, the Google Assistant helps you proactively filter our spam before your phone ever rings. [3]<br />
+Battery 3140 mAh2</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/google-pixel-4-just-black-64gb-unlocked/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
